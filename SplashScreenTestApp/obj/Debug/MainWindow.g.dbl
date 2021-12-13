@@ -1,0 +1,59 @@
+﻿
+namespace SplashScreenTestApp 
+    
+    
+    ;;; <summary>
+    ;;; MainWindow
+    ;;; </summary>
+    {System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")}
+    public partial class MainWindow extends System.Windows.Window implements System.Windows.Markup.IComponentConnector
+        
+        {System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")}
+        internal label1, @System.Windows.Controls.Label
+        
+        ;;; <summary>
+        ;;; InitializeComponent
+        ;;; </summary>
+        {System.Diagnostics.DebuggerNonUserCodeAttribute()}
+        public  method InitializeComponent, void
+        endparams
+        proc
+            begin
+                data resourceLocater, @System.Uri , new System.Uri("/SplashScreenTestApp;component/mainwindow.xaml", System.UriKind.Relative)
+                if (m_contentLoaded)
+                begin
+                    mreturn
+                end
+                m_contentLoaded = True
+                System.Windows.Application.LoadComponent(this, resourceLocater)
+            end
+        
+        endmethod
+        
+        private m_contentLoaded, boolean
+        
+        {System.Diagnostics.DebuggerNonUserCodeAttribute()}
+        {System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Never)}
+        {System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Design", "CA1033:InterfaceMethodsShouldBeCallableByChildTypes")}
+        {System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")}
+        {System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")}
+         public method System.Windows.Markup.IComponentConnector.Connect, void
+        byval connectionId, int
+        byval target, @System.Object
+        endparams
+        proc
+            begin
+                if ((connectionId == 1))
+                begin
+                    this.label1 = ((@System.Windows.Controls.Label)(target))
+                    mreturn
+                end
+                this.m_contentLoaded = True
+            end
+        
+        endmethod
+    
+    endclass
+    
+    endnamespace
+

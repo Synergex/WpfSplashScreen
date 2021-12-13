@@ -1,0 +1,14 @@
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\bin\Debug\SplashScreenTestApp.exe
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\bin\Debug\SplashScreenTestApp.pdb
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\bin\Debug\PSGSplasher.dll
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\bin\Debug\PSGSplasher.pdb
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\obj\Debug\MainWindow.baml
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\obj\Debug\SplashScreen.baml
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\obj\Debug\SplashScreenTestApp_MarkupCompile.cache
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\obj\Debug\SplashScreenTestApp.g.resources
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\obj\Debug\SplashScreenTestApp.Properties.Resources.resources
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\obj\Debug\GenerateResource.read.1.tlog
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\obj\Debug\GenerateResource.write.1.tlog
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\obj\Debug\SplashScreenTestApp.exe
+C:\CodeExchange\SynNet\WpfSplashScreen\SplashScreenTestApp\obj\Debug\SplashScreenTestApp.pdb
